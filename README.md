@@ -1,2 +1,2 @@
 # Estudos de caso
-Repositório criado para armazenar os scripts de demandas do meu emprego com dados e informações genéricas.
+Repositório criado para armazenar os scripts de demandas do trabalho utilizando dados e informações genéricas para armazenar a sóliga da solução do problema.
